@@ -11,6 +11,6 @@ Hagler DJ Jr, Thompson WK, Chen CH, Reuter C, Akshoomoff N, and Brown TT. Do agg
 
 Acknowledgements
 
-Chase Reuter was a statistical programmer who created or contributed to some of the R scripts included in the package.
+Chase Reuter created the initial version of some of the R scripts included in the package.
 
 This package uses a publicly available matlab function, randindex.m, written by David Corney: https://www.mathworks.com/matlabcentral/mlc-downloads/downloads/submissions/6072/versions/1/previews/image_mva/Clustering/RandIndex.m/index.html
